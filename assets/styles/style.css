@@ -1,0 +1,35 @@
+.header {
+  background-color: rgb(226, 221, 221);
+  text-align: center;
+  height: 5vh;
+  padding: 2%;
+}
+.main {
+  display: flex;
+  border: 1px solid black;
+}
+.section_container {
+  flex: 1;
+  text-align: center;
+  background-color: rgb(246, 230, 201);
+}
+.section_container {
+}
+.aside {
+  background-color: rgb(204, 238, 227);
+  text-align: center;
+}
+.footer {
+  border: 2px solid rgb(46, 67, 201);
+  background-color: rgb(196, 225, 249);
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 20vh;
+}
+.footer_item {
+  background-color: rgb(220, 231, 241);
+  border: 2px solid rgb(36, 121, 200);
+  padding: 2%;
+}
